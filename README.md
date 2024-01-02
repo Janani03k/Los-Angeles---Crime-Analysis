@@ -3,6 +3,7 @@
 ## Overview
 This project, conducted from September to December 2023, involved a detailed analysis of crime data in Los Angeles. Utilizing a robust tech stack including Python, Jupyter Notebook, TensorFlow, Scikit-learn, Numpy, Pandas, Matplotlib, and Seaborn, the project aimed to identify patterns in crime types, locations, and timestamps.
 Link to the project is given here: https://drive.google.com/file/d/1Q5xnOu_YpBYG3KnG-aCc1IhLqLLbwGFt/view?usp=drive_link
+Dataset used: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
 
 ## Key Objectives
 - **Data Analysis**: Employed Python for Exploratory Data Analysis (EDA) to uncover trends in various crime types and their locations.
